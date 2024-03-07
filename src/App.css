@@ -1,5 +1,16 @@
 *{
     margin: 0;
-    padding: 0;
-    
+    padding: 0;  
+    box-sizing: border-box;
 }
+
+::-webkit-scrollbar {
+    background: #e8f2ff;
+    display: none;
+    width: 0;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #e8f2ff;
+    display: none;
+  }
