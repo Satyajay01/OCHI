@@ -30,18 +30,18 @@ function About() {
               <span>S:</span> <br /> <br />
               <lu className="list-none underline">
                 <li className="">
-                  <a className="" href="">
+                  <a className="" href="#">
                     Instagram
                   </a>
                 </li>
                 <li>
-                  <a href="">Behance</a>
+                  <a href="#">Behance</a>
                 </li>
                 <li>
-                  <a href="">Facebook</a>
+                  <a href="#">Facebook</a>
                 </li>
                 <li>
-                  <a href="">Linkedin</a>
+                  <a href="#">Linkedin</a>
                 </li>
               </lu>
             </div>
@@ -57,9 +57,7 @@ function About() {
             <div className="h-full w-[50%] flex justify-start items-center">
                 <img className="rounded-xl h-[72vh] w-[100vh]" src="https://ochi.design/wp-content/uploads/2022/05/Homepage-Photo-663x469.jpg" alt="" />
             </div>
-            
         </div>
-
       </div>
     </>
   );
