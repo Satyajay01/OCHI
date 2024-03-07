@@ -31,7 +31,6 @@ function Eyes() {
                 </div>
 
                 </div>
-
                 
                 <div className='flex justify-center items-center w-[15vw] h-[15vw] rounded-full bg-zinc-100'>
                 <div className=' relative w-2/3 h-2/3  rounded-full bg-[#0f172a]'>
