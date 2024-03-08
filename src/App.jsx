@@ -8,8 +8,11 @@ import Eyes from './Components/Eyes'
 import Featured from './Components/Featured'
 import Cards from './Components/Cards'
 import Footer from './Components/Footer'
+import LocomotiveScroll from 'locomotive-scroll';
 
-function App() {
+function App() { 
+     const locomotiveScroll = new LocomotiveScroll();
+
   return (
     <div className='w-full min-h-screen text-white bg-[#0f172a]'>
     <Navbar/>
