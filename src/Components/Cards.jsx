@@ -1,5 +1,5 @@
 import React from 'react'
-import './Featured.css'
+import './Style.css'
 
 function Cards() {
   return (
